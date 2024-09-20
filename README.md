@@ -1,8 +1,6 @@
 # http-5114
 Files from HTTP5114 course.
 
-Make a change!
-
 ## Starting a New Project
 
 Make a new Repo on github.com
